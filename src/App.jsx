@@ -14,11 +14,10 @@ import {
   ArrowRight,
   CheckCircle2,
   CreditCard,
-  Landmark,
+  Check,
   BookOpen,
   LineChart,
-  Menu,
-  X,
+  Utensils,
 } from "lucide-react";
 
 const farben = {
