@@ -11,6 +11,8 @@ import {
   Calculator,
   Bell,
   Search,
+Menu,
+X,
   ArrowRight,
   CheckCircle2,
   CreditCard,
