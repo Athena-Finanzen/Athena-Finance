@@ -24,10 +24,10 @@ import {
 export default function App() {
   return (
     <div style={{ padding: 40 }}>
-      <h1>Imports laufen</h1>
+      <h1>Athena Finance läuft 🚀</h1>
+      <Crown />
       <Menu />
       <X />
-      <Crown />
     </div>
   );
 }
