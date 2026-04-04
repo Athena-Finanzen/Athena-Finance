@@ -257,7 +257,7 @@ function Marktuebersicht() {
     <section className="mx-auto mt-6 max-w-7xl px-6 pb-12">
       <div className="rounded-[24px] border border-slate-200 bg-white p-6 shadow-sm">
         <div className="mb-5 flex items-center justify-between">
-          <h2 className="text-xl font-bold text-slate-900">Marktuebersicht</h2>
+          <h2 className="text-xl font-bold text-slate-900">Marktübersicht</h2>
           <button className="text-sm font-medium text-slate-500">Mehr</button>
         </div>
 
@@ -283,13 +283,5 @@ function Marktuebersicht() {
     </section>
   );
 }
-
-export default function App() {
-  return (
-    <Layout>
-      <Hero />
-      <StatistikKarten />
-      <Marktuebersicht />
-    </Layout>
   );
 }
